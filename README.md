@@ -19,8 +19,8 @@ The custom Android app interface features a direct connectivity status tracker, 
 
 ## 🛠️ Hardware Requirements
 
-* **Microcontroller:** Arduino Uno / Nano / Mega
-* **Bluetooth Module:** HC-05 (or HC-06)
+* **Microcontroller:** Arduino Uno 
+* **Bluetooth Module:** HC-05 
 * **Relay Module:** 3-Channel or 4-Channel Relay board (Active-LOW triggered)
 * **Jumper Wires & Breadboard**
 
