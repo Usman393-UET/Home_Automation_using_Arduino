@@ -74,7 +74,7 @@ The PC script listens for your voice commands using your laptop microphone and p
 ### 3. Mobile App Deployment
 1. Transfer the `Mobile_App/home_control.apk` file directly onto your Android device.
 2. Enable installation from unknown sources in settings and install.
-3. Pair your mobile phone with the **HC-05** module inside your phone's system Bluetooth settings (Default PIN is usually `1234` or `0000`).
+3. Pair your mobile phone with the **HC-05** module inside your phone's system Bluetooth settings 
 4. Launch the application, click **Bluetooth** to establish the wireless runtime link.
 
 ---
