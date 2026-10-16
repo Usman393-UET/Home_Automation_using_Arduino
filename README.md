@@ -8,6 +8,10 @@ An **Arduino-based home automation ecosystem** featuring dual-control interfaces
 
 ## 📱 App Interface Overview
 
+<p align="center">
+  <img src="Mobile_App/app_screenshot.png" alt="MIT App Inventor Interface Layout" width="300">
+</p>
+
 The custom Android app interface features a direct connectivity status tracker, voice recognition initialization, and full manual button toggles.
 
 * **Bluetooth Dropdown & Status:** Tap the `Bluetooth` picker to connect to your paired HC-05 module (displays `Disconnected` or `Connected`).
